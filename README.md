@@ -5,7 +5,7 @@ Previously, various commercial and shareware programs were available that would 
 
 InGuardians' ServifyThis program takes any Windows executable and converts it into a form suitable for use as a Windows service.
 
-###**ServifyThis Usage Instructions:**
+### **ServifyThis Usage Instructions:**
 
 ServifyThis will take any Win32 executable (either command-line or GUI) and wrap it into a new executable/service/installer program that will:
 
@@ -19,7 +19,7 @@ ServifyThis will take any Win32 executable (either command-line or GUI) and wrap
 
 The parameters entered into the GUI of ServifyThis should be self-explanatory, but the following example usage should answer any lingering questions.
 
-###**Sample Usage:**
+### **Sample Usage:**
 
 Launch ServifyThis.exe
 
